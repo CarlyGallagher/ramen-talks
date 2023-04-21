@@ -48,7 +48,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ​![Alt text](./assets/techblog.png)
 ​![Alt text](./assets/newpost.png)
 ## Links
-- Deployed Webpage: 
+- Deployed Webpage: https://github.com/CarlyGallagher/ramen-talks.git
 - GitHub Repo Page: https://github.com/CarlyGallagher/ramen-talks.git
 - Castify Video Demo: N/A
 ​
