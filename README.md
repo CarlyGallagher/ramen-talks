@@ -44,9 +44,8 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 ​
 ## Usage
 
+​![Alt text](./assets/dashboard.png)
 ​![Alt text](./assets/login.png)
-​![Alt text](./assets/techblog.png)
-​![Alt text](./assets/newpost.png)
 ## Links
 - Deployed Webpage: https://github.com/CarlyGallagher/ramen-talks.git
 - GitHub Repo Page: https://github.com/CarlyGallagher/ramen-talks.git
